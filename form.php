@@ -8,7 +8,7 @@
 <?php
 
 	/*
-	here in the form tab, in the action the name of the php file to be called is passed as value.
+	here in the form tab, in the action the name of the php file to be called is passed as value and method to be used is also specified.
 	*/
 
 	if(isset($_GET['user_name']) && !empty($_GET['user_name'])) {
