@@ -19,7 +19,6 @@
 	$user_input = $_POST['user_input'];
 	$user_input_updated = str_replace($find, $replace, $user_input);
 	$user_input_updated1 = str_ireplace($find, $replace, $user_input);
-
 	/*
 		str_replace() function is case sensitive, it will replace the string iff the case of the words in the find and replace arguments match perfectly.
 		str_ireplace() function is case insensitive, it will replace the string if their characters match in the find and replace arguments irrespective of their case.
