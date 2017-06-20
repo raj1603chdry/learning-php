@@ -1,10 +1,10 @@
 <?php
 	$string = 'This is an example string.';
 	$string_word_count = str_word_count($string);	//	here the second argument is 0 which is the default value.
-	$string_word_count1 = str_word_count($string, 1);	//	1 display the key as the index position and the work as the value.
+	$string_word_count1 = str_word_count($string, 1);	//	1 display the key as the index position and the word as the value.
 	$string_word_count2 = str_word_count($string, 2);	//	2 display the starting position of the word as the key and the word as the value.
 	/*
-		even a third argument can be passed after the numberic argument to specify any element of the sentance that should be counted as a word.
+		even a third argument can be passed after the numeric argument to specify any element of the sentance that should be counted as a word.
 		As in the given case the '.' or any special character after the last word 'string'.
 		If more than one character are to be included that write it as the third argument within '' as a single word without any separator.
 	*/

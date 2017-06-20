@@ -19,7 +19,7 @@
 	}
 
 	/*
-		The header function will work only if there are no header tags before it. 
+		The header function will work only if there are no header tags before it.
 		To make the header work even if there is some information on the page, we use the output buffer.
 	*/
 
