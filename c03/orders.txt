@@ -1,0 +1,6 @@
+19:02 22nd June 2017	1 tires	2 oil	3 spark plugs	$145.2	Green Vista Apartment, Siliguri, West Bengal
+19:03 22nd June 2017	23 tires	21 oil	20 spark plugs	$2706.55	C4, Green Vista Apartment, Siliguri, West Bengal
+19:03 22nd June 2017	23 tires	21 oil	20 spark plugs	$2706.55	C4, Green Vista Apartment, Siliguri, West Bengal
+19:10 22nd June 2017	23 tires	21 oil	20 spark plugs	$2706.55	C4, Green Vista Apartment, Siliguri, West Bengal
+19:43 22nd June 2017	23 tires	21 oil	20 spark plugs	$2706.55	C4, Green Vista Apartment, Siliguri, West Bengal
+19:51 22nd June 2017	1 tires	2 oil	3 spark plugs	$145.2	1507, Vit University, Chennai
